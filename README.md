@@ -2,7 +2,7 @@
 
 ---
 
-# Excel Coffee Shop Data Analysis Dashboard 🚀☕
+# Coffee Shop Data Analysis Dashboard 🚀☕
 
 Welcome to the Excel Coffee Shop Data Analysis Dashboard! This dynamic dashboard is entirely built using Excel, offering powerful insights into our coffee shop operations without the need for any specialized software.
 
